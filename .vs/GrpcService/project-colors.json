@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9a12266-ac6d-45e9-aef1-36daeef73c7e": {
+      "ProjectGuid": "a9a12266-ac6d-45e9-aef1-36daeef73c7e",
+      "DisplayName": "GrpcService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "87e782e5-7770-472d-8ebc-0a8b91fead9d": {
+      "ProjectGuid": "87e782e5-7770-472d-8ebc-0a8b91fead9d",
+      "DisplayName": "GrpcClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
